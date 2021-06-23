@@ -1,3 +1,3 @@
-### Howdy
-<br>
-I'm Rodrick, Rod for short. Online I go by both RodFire8181 and RodFireProductions. I'm a young artist and hobbyist coder.
+### --- 💀♡ Howdy ♡💀---
+<p>I'm Rodrick, Rod for short. I'm go by they/them pronouns and am nonbinary.</p>
+<p>I'm a young artist and hobbyist coder.<p>
