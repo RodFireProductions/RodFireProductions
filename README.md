@@ -1,7 +1,5 @@
 ## 💀♡ Howdy ♡💀
-I'm Rodrick, your demigod.
-
-I'm an artist and hobbyist game and web developer.
+I'm Rodrick, an artist and hobbyist game and web developer.
 
 <a target="_blank" href="https://rodfireproductions.itch.io/">itch.io</a> | <a target="_blank" href="https://deadinsideartist.art/">website</a> | <a target="_blank" href="https://me.shroom.ink">links</a>
 
