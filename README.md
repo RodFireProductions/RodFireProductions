@@ -1,25 +1,21 @@
-## 💀♡ Howdy ♡💀
-I'm Rodrick, an artist and hobbyist game and web developer.
 
-<a target="_blank" href="https://rodfireproductions.itch.io/">itch.io</a> | <a target="_blank" href="https://deadinsideartist.art/">website</a> | <a target="_blank" href="https://me.shroom.ink">links</a>
+<img style="margin: auto; display: block;" src="./img/logo.png" width="100">
 
-## Technologies
-Front-end
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
-![Jekyll](https://img.shields.io/badge/Jekyll-CC0000.svg?style=for-the-badge&logo=Jekyll&logoColor=white)
-![Eleventy](https://img.shields.io/badge/Eleventy-222222.svg?style=for-the-badge&logo=Eleventy&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=fff)
-
-Back-end
-
-![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
-
-Games
-
-![Ren'Py](https://img.shields.io/badge/Ren'Py-FF7F7F.svg?style=for-the-badge&logo=Ren'Py&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128.svg?style=for-the-badge&logo=Unreal-Engine&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)
+```js
+const Rodrick = {
+    about: "Just a lil guy trying to create things.",
+    skills: {
+        art: ["Character Illustration", "Concept Art"],
+        dev: ["Front-end Web Development", "Game Development"] // Learning Back-end Web Development and Software Development
+    },
+    code: ["HTML", "CSS", "JavaScript", "Python"], // Learning PHP
+    technologies: {
+        databases: ["SQL", "SQLite3"],
+        ssg: ["Jekyll", "Eleventy"],
+        frameworks: ["Vue", "Qt"],
+        templating: ["Liquid"],
+        game_engines: ["Ren'Py"]
+    }
+}
+```
+<img style="margin: auto; display: block;" src="./img/not-by-ai.png">
