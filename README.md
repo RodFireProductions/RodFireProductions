@@ -1,12 +1,13 @@
 
-<img style="margin: auto; display: block;" src="./img/logo.png" width="100">
+<img align="left" src="./img/logo.png" width="300">
 
 ```js
 const Rodrick = {
     about: "Just a lil guy trying to create things.",
     skills: {
         art: ["Character Illustration", "Concept Art"],
-        dev: ["Front-end Web Development", "Game Development"] // Learning Back-end Web Development and Software Development
+        dev: ["Front-end Web Development", "Game Development"]
+        // Learning Back-end Web Development and Software Development
     },
     code: ["HTML", "CSS", "JavaScript", "Python"], // Learning PHP
     technologies: {
@@ -18,4 +19,4 @@ const Rodrick = {
     }
 }
 ```
-<img style="margin: auto; display: block;" src="./img/not-by-ai.png">
+<img align="right" src="./img/not-by-ai.png">
